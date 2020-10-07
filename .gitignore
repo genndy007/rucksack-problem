@@ -1,0 +1,6 @@
+# Backups
+*.bak
+# Report
+*.docx
+# Text can be easily generated
+*.txt
